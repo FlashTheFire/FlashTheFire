@@ -1,116 +1,86 @@
 <div align="center">
-  
-  <!-- Typing SVG (optional animated header) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+FlashTheFire+%F0%9F%94%A5;Full-Stack+Developer;Building+cool+things+with+code;Open+Source+Enthusiast" alt="Typing SVG" />
 
-  <h1>🔥 FlashTheFire</h1>
-  <p><strong>Developer • Builder • Problem Solver</strong></p>
-  
-  <p>
-    Passionate about creating impactful software, exploring new technologies,<br>
-    and turning ideas into reality. Currently focused on modern web & full-stack development.
-  </p>
+# Hi there, I'm FlashTheFire 👋 🚀
 
-  <!-- Profile Views (optional) -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=FlashTheFire&label=Profile%20views&color=ff6b35&style=flat" alt="Profile views" />
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+System+Architect;Building+NexNum+%26+High-Scale+Web+Apps;Specialized+in+Next.js%2C+Node.js%2C+Python+%26+DevOps)](https://git.io/typing-svg)
 
-  <!-- Social / Connect badges -->
-  <p>
-    <a href="https://github.com/FlashTheFire"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-    <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <!-- Add portfolio / website -->
-    <!-- <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a> -->
-  </p>
 </div>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building and shipping full-stack projects
-- 🌱 Continuously learning modern web technologies & best practices
-- 💡 Love open-source, clean code, and solving real problems
-- ⚡ Fun fact: I code best when the ideas are on fire 🔥
+### 👨‍💻 About Me
 
-### 🛠️ Tech Stack
+- 🔭 Currently building **[NexNum](https://github.com/FlashTheFire/NexNum)** — A high-availability virtual number & SMS platform powered by Next.js 15, PostgreSQL, Redis, and Telegram Bot architecture.
+- ⚡ Specializing in **scalable backend engine design**, real-time poller workers, multi-provider API failovers, and modern high-conversion UI/UX.
+- 🌱 Continuously expanding skills in **distributed microservices**, advanced Docker orchestration, and high-performance search engine optimization (MeiliSearch).
+- 💬 Ask me about **Next.js, TypeScript, Node.js, Python, PostgreSQL, Prisma, Redis, Docker, and Telegram Bot APIs**.
 
-**Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+#### **Frontend Development**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-**Backend & Tools**  
+#### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5A5F?style=for-the-badge&logo=meilisearch&logoColor=white)
+
+#### **DevOps & Infrastructure**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
-<!-- Customize the badges above with your actual stack -->
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlashTheFire&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="FlashTheFire's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashTheFire&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=FlashTheFire&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🔥 Featured Projects
+### 📊 GitHub Activity & Statistics
 
-<!-- Replace these with your real projects. You can also use github-readme-stats pin cards -->
+<div align="center">
 
-| Project | Description | Tech | Links |
-|---------|-------------|------|-------|
-| **Project One** | Short impactful description of what it does and why it matters | React, Node, MongoDB | [Repo](https://github.com/FlashTheFire/project-one) · [Demo](https://demo-link.com) |
-| **Project Two** | Another cool project description | Next.js, TypeScript, Tailwind | [Repo](https://github.com/FlashTheFire/project-two) · [Live](https://live-link.com) |
-| **Project Three** | Open-source tool / library / utility | Python, FastAPI | [Repo](https://github.com/FlashTheFire/project-three) |
+<img src="https://github-readme-stats.vercel.app/api?username=FlashTheFire&show_icons=true&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff&icon_color=00ff66&bg_color=0a0a0c" alt="FlashTheFire GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashTheFire&layout=compact&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=0a0a0c" alt="Top Languages" width="49%" />
 
-<!-- Alternative prettier pin cards (uncomment & customize):
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FlashTheFire&repo=your-repo-name&theme=radical&hide_border=true)](https://github.com/FlashTheFire/your-repo-name)
--->
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FlashTheFire&theme=dark&hide_border=true&background=0A0A0C&stroke=00FF66&alarm=00FF66&fire=00FF66&ring=00FF66&currStreakNum=00FF66&sideNums=ffffff&sideTitle=00FF66" alt="FlashTheFire GitHub Streak" width="99%" />
+
+</div>
 
 ---
 
-### 📈 Activity Graph (optional)
+### 🏆 GitHub Trophies
 
-<!-- Uncomment if you want a contribution activity graph -->
-<!--
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FlashTheFire&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
--->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=FlashTheFire&theme=darkhub&column=6&no-bg=true" alt="FlashTheFire GitHub Trophies" />
+
+</div>
+
+---
+
+### 🌟 Project Showcase
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| ⚡ **[NexNum](https://github.com/FlashTheFire/NexNum)** | High-performance virtual numbers & SMS platform with dynamic candidate failover, background pollers, and AI Telegram Bot. | `Next.js` `TypeScript` `Python` `PostgreSQL` `Redis` `Docker` |
 
 ---
 
 <div align="center">
-  <h3>💬 Let's connect!</h3>
-  <p>Feel free to reach out for collaboration, questions, or just to say hi 👋</p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Open%20to-Opportunities-success?style=for-the-badge" alt="Open to opportunities"/>
-  </p>
 
-  <br/>
-  
-  <img src="https://raw.githubusercontent.com/FlashTheFire/FlashTheFire/main/assets/footer.gif" width="100%" alt="Footer" /> <!-- optional local gif -->
-  
-  <p><i>Thanks for stopping by! ⭐ Star some of my repos if you like them.</i></p>
+**⭐ From [FlashTheFire](https://github.com/FlashTheFire) with Passion & Code ⭐**
+
 </div>
