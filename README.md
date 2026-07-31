@@ -50,22 +50,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FlashTheFire&show_icons=true&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff&icon_color=00ff66&bg_color=0a0a0c" alt="FlashTheFire GitHub Stats" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlashTheFire&layout=compact&theme=dark&hide_border=true&title_color=00ff66&text_color=ffffff&bg_color=0a0a0c" alt="Top Languages" width="49%" />
-
-<br /><br />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FlashTheFire&theme=dark&hide_border=true&background=0A0A0C&stroke=00FF66&alarm=00FF66&fire=00FF66&ring=00FF66&currStreakNum=00FF66&sideNums=ffffff&sideTitle=00FF66" alt="FlashTheFire GitHub Streak" width="99%" />
-
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FlashTheFire&theme=darkhub&column=6&no-bg=true" alt="FlashTheFire GitHub Trophies" />
 
 </div>
 
